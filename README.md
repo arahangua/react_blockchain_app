@@ -1,1 +1,2 @@
-readme
+# Practice project for react frontend 
+
